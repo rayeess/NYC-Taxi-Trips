@@ -1,0 +1,8 @@
+# Ignore all files with the below extentions
+*.csv
+*.xlsx
+*.json
+*.dbf
+*.prj
+*.shp
+*.shx
